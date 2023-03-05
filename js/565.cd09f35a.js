@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkpagina_web"]=globalThis["webpackChunkpagina_web"]||[]).push([[565],{7565:(e,a,n)=>{n.r(a),n.d(a,{default:()=>b});var t=n(9835);const r={class:"text-center"},s=(0,t._)("h1",null,"te traes un tupper",-1),u=[s];function c(e,a){return(0,t.wg)(),(0,t.iD)("div",r,u)}var i=n(1639);const l={},p=(0,i.Z)(l,[["render",c]]),b=p}}]);
